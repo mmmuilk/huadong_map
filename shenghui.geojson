@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "shenghui",
+"features": [
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "RES1_4M_LC": 13, "RES1_4M__1": 823, "GBCODE": 31020, "NAME": "福州", "ADCODE93": 350101, "ADCODE99": 350101, "ADCLASS": 2, "PINYIN": "Fuzhou", "POLYGONID": 0, "SCALE": 1.0, "ANGLE": 0 }, "geometry": { "type": "Point", "coordinates": [ 925757.000106343068182, 1882782.878624168690294 ] } },
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "RES1_4M_LC": 14, "RES1_4M__1": 898, "GBCODE": 31020, "NAME": "南昌", "ADCODE93": 360101, "ADCODE99": 360101, "ADCLASS": 2, "PINYIN": "Nanchang", "POLYGONID": 0, "SCALE": 1.0, "ANGLE": 0 }, "geometry": { "type": "Point", "coordinates": [ 570575.882335557136685, 2141562.752145177219063 ] } },
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "RES1_4M_LC": 11, "RES1_4M__1": 668, "GBCODE": 31020, "NAME": "杭州", "ADCODE93": 330101, "ADCODE99": 330101, "ADCLASS": 2, "PINYIN": "Hangzhou", "POLYGONID": 0, "SCALE": 1.0, "ANGLE": 0 }, "geometry": { "type": "Point", "coordinates": [ 963060.369869079906493, 2348935.00757030537352 ] } },
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "RES1_4M_LC": 9, "RES1_4M__1": 584, "GBCODE": 31020, "NAME": "上海", "ADCODE93": 310100, "ADCODE99": 310100, "ADCLASS": 2, "PINYIN": "Shanghai", "POLYGONID": 0, "SCALE": 1.0, "ANGLE": 0 }, "geometry": { "type": "Point", "coordinates": [ 1074142.005812541116029, 2468338.994625512510538 ] } },
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "RES1_4M_LC": 12, "RES1_4M__1": 741, "GBCODE": 31020, "NAME": "合肥", "ADCODE93": 340101, "ADCODE99": 340101, "ADCLASS": 2, "PINYIN": "Hefei", "POLYGONID": 0, "SCALE": 1.0, "ANGLE": 0 }, "geometry": { "type": "Point", "coordinates": [ 677228.054722885601223, 2498381.254109493922442 ] } },
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "RES1_4M_LC": 10, "RES1_4M__1": 594, "GBCODE": 31020, "NAME": "南京", "ADCODE93": 320101, "ADCODE99": 320101, "ADCLASS": 2, "PINYIN": "Nanjing", "POLYGONID": 0, "SCALE": 1.0, "ANGLE": 0 }, "geometry": { "type": "Point", "coordinates": [ 814408.436034644022584, 2529964.75647490285337 ] } },
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "RES1_4M_LC": 15, "RES1_4M__1": 981, "GBCODE": 31020, "NAME": "济南", "ADCODE93": 370101, "ADCODE99": 370101, "ADCLASS": 2, "PINYIN": "Jinan", "POLYGONID": 0, "SCALE": 1.0, "ANGLE": 0 }, "geometry": { "type": "Point", "coordinates": [ 614295.570568268653005, 3018737.504194111563265 ] } }
+]
+}
